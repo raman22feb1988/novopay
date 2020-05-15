@@ -1,2 +1,2 @@
 # novopay
-Novopay Assignment: News API mobile app.
+Novopay Android Assignment: News API mobile app.
